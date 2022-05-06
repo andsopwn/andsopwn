@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&reversal=true&animation=twinkling&fontSize=50&color=gradient&customColorList=0,2,2,5,10&text=louxsoen&fontAlignY=30&desc=ego%20ostendam%20tibi%20lucem&descSize=18&descAlignY=42)
 
-<b>I run to achieve 💻</b>
+<b>💻 I run to achieve 🐯</b>
   
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flouxsoen%2Fhit-counter&count_bg=%23E2EBF0&title_bg=%23CFD9DF&icon=ghostery.svg&icon_color=%23E7E7E7&title=come+to+see+me&edge_flat=false)
 
