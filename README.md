@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&reversal=true&animation=twinkling&fontSize=50&color=gradient&customColorList=0,2,2,5,10&text=louxsoen&fontAlignY=30&desc=ego%20ostendam%20tibi%20lucem&descSize=18&descAlignY=42)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&reversal=true&animation=twinkling&fontSize=50&color=gradient&customColorList=15,15,18,18&text=louxsoen&fontAlignY=30&desc=ego%20ostendam%20tibi%20lucem&descSize=18&descAlignY=42)
 
 <b>💻 I run to achieve 🐯</b>
   
@@ -18,6 +18,6 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a></center>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=0,2,2,5,10)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=15,15,18,18)
 
 </div>
