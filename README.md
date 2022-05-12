@@ -19,7 +19,7 @@
 
 ❤️ <b>Side Channel & Fault Injection</b> 👀
 
-<img src="CyberSec.png" alt="CyberSec" width="30%" height="30%" />
+<!-- <img src="CyberSec.png" alt="CyberSec" width="30%" height="30%" /> -->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=15,15,18,18)
 
